@@ -11,14 +11,14 @@ namespace Projeto_teste
         static void Main(string[] args)
         {
 
-            Console.WriteLine();
+            Console.WriteLine("-------------------------------------");
            
             Console.WriteLine("Nova alteração_3");
             Console.WriteLine("Alteração 4_");
             Console.WriteLine();
             Console.WriteLine("Alteração4");
 
-            Console.ReadLine();
+            Console.WriteLine("---------------------------------------");
         }
     }
 }
